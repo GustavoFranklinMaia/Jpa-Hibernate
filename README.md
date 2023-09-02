@@ -2,8 +2,6 @@
 <p>O objetivo desta aplicação é desenvolver um CRUD utilizando JPA/Hibernate utilizando as notações @OneToMany, @ManyToOne e @ManyToMany.</p>
 
 
-![image](https://github.com/fabianojunior139/jpa-hibernate/assets/100708547/6ccd7735-c232-4020-b2fd-0b50caea6af6)
-
 
 ## 🖥 Preview
 https://www.youtube.com/watch?v=a7TZaCHkG9o&ab_channel=FabianoJunior
