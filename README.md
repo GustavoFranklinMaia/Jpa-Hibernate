@@ -1,11 +1,6 @@
 <h1 align="center">🎲 JPA/Hibernate</h1>
 <p>O objetivo desta aplicação é desenvolver um CRUD utilizando JPA/Hibernate utilizando as notações @OneToMany, @ManyToOne e @ManyToMany.</p>
 
-
-
-## 🖥 Preview
-https://www.youtube.com/watch?v=a7TZaCHkG9o&ab_channel=FabianoJunior
-
 ## :heavy_check_mark: Features
 - [x] Cadastro, Lista, Edição e Exclusão dos livros cadastrados
 
@@ -19,14 +14,6 @@ Notações utilizadas:
 * @ManyToOne
 * @ManyToMany
 * @JoinColumn
-
-
-
-## ⚡ Tecnologias
-<div align="center"> 
-  <img alt="Fabiano-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img alt="Fabiano-MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-</div> 
 
 ## ⚙ Como rodar a aplicação? 
 
